@@ -1,4 +1,4 @@
-Json : https://raw.githubusercontent.com/getmanfred/offers/master/movies.json
+Json : https://raw.githubusercontent.com/getmanfred/codechallenges/main/vue/movies.json
 
 Title ▲	Year	Director	Cast	Genre	Notes
 Movie 1	1900	someone	-	abcde	
