@@ -1,13 +1,11 @@
 Json : https://raw.githubusercontent.com/getmanfred/codechallenges/main/vue/movies.json
 
-Title ▲	Year	Director	Cast	Genre	Notes
-Movie 1	1900	someone	-	abcde	
-Movie 2	1950	someone	-	fghij	
-Movie 3	2000	someone	-	klmno	
-
-The exercise must be done by using only these endpoints. 
+|Title ▲	|Year	|Director	|Cast	|Genre	|Notes
+|Movie 1	|1900	|someone	|abcde||
+|Movie 2	|1950	|someone	|fghij||	
+|Movie 3	|2000	|someone	|klmno||
+ 
 It is not the purpose of the exercise to implement the backend. 
-Adblockers may block the requests so take care of it if you experience problems with the requests.
 
 The application should allow the user to sort by different criteria (up to you) and filter by title.
 
@@ -17,14 +15,14 @@ not to use an existing table component as it is the goal of the exercise.
 Focus on performance and readability. There is a lot of data to handle and you should make some decisions. 
 The evaluation criteria will also include:
 
-Code organization.
-Testing (not mandatory).
-Knowledge of Vue ecosystem (not mandatory). Let us know the experience you have with Vue to take into consideration.
-Custom written components.
-Efficient use of memory and processor.
-Responsive design or styling is not important (feel free to use anything you want).
-In general, we value proactivity.
-Consider any corner cases.
+* Code organization.
+* Testing (not mandatory).
+* Knowledge of Vue ecosystem (not mandatory). Let us know the experience you have with Vue to take into consideration.
+* Custom written components.
+* Efficient use of memory and processor.
+* Responsive design or styling is not important (feel free to use anything you want).
+* In general, we value proactivity.
+* Consider any corner cases.
 
 Write down any assumptions you make in a README or in the code (never in the reply email).
 
