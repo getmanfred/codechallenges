@@ -1,9 +1,10 @@
 Json : https://raw.githubusercontent.com/getmanfred/codechallenges/main/vue/movies.json
 
 |Title ▲	|Year	|Director	|Cast	|Genre	|Notes
-|Movie 1	|1900	|someone	|abcde||
-|Movie 2	|1950	|someone	|fghij||	
-|Movie 3	|2000	|someone	|klmno||
+|---|---|---|---|---|---|
+|Movie 1	|1900	|someone	|...|...|...
+|Movie 2	|1950	|someone	|...|...|	...
+|Movie 3	|2000	|someone	|...|...|...
  
 It is not the purpose of the exercise to implement the backend. 
 
